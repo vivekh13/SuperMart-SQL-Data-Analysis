@@ -18,7 +18,7 @@
 -- PART A: EASY TO MODERATE
 -- SQL Fundamentals
 -- ============================================================
--- 1. **SELECT / FROM** — Retrieve all columns for every customer in the `customers` table.
+-- 1. SELECT / FROM — Retrieve all columns for every customer in the `customers` table.
      SELECT * 
      FROM customers;
      
